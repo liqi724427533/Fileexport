@@ -1,0 +1,41 @@
+9
+
+dir
+61
+http://192.168.0.55:64123/svn/nspweb/trunk/plug-in/ftpManager/FileExport/FileExport/Fileexport/WebContent
+http://192.168.0.55:64123/svn/nspweb
+
+
+
+2015-09-08T01:36:09.860014Z
+61
+li.qi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+87e4a571-78bd-41eb-826b-81aef2444ece
+
+
+
+
+
+
+0
+
+META-INF
+dir
+
+WEB-INF
+dir
+
